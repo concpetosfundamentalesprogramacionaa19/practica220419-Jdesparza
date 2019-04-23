@@ -17,4 +17,4 @@ multiplicacion = int(valor1) * int(valor2) # aquí realizo la multiplicacion de 
 
 # Se impreme los valores guardados en cada variable
 print("la suma es: %s" % suma)
-print("la multiplicacion es. %s" % multiplicacion)
+print("la multiplicacion es: %s" % multiplicacion)
